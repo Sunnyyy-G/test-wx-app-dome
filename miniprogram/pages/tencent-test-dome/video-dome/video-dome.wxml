@@ -1,0 +1,13 @@
+<!--pages/tencent-test-dome/video-dome/video-dome.wxml-->
+<view>
+  <scroll-view class="scroll-area" type="list" scroll-y>
+    <video
+      class="videi-demo"
+      id="video1"
+      src="http://1252093452.vod2.myqcloud.com/1dee40abvodtranscq1252093452/315ee4053270835012947650594/v.f100040.mp4" 
+      objectFit="fill"
+      controls
+      autoplay
+    ></video>
+  </scroll-view>
+</view>
